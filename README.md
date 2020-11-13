@@ -1,6 +1,7 @@
 # Uranium Mod
 <pre>
- A Mindustry mod that adds Uranium to the game, as well as new blocks, units etc.
+ A Mindustry mod that adds Uranium to the game,
+ as well as new blocks, units etc.
 </pre>
 # Information
 <pre>
